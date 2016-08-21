@@ -4,12 +4,17 @@ This directory includes light curves for a set of transients with a good constra
 
 - The files are in asci format with two columns. Other info are reported at the top of the file in the following format:
 
-# days V
-# ref= Valenti et al 2014 , Fang et al 2016 
-# jd_expl= 2456497.45
-# if missing data (gap 2.0 days), interpolate 
-# type=  smooth 
-# ebv= 0.00528377833228
+days V
+
+ref= Valenti et al 2014 , Fang et al 2016 
+
+jd_expl= 2456497.45
+
+if missing data (gap 2.0 days), interpolate 
+
+type=  smooth 
+
+ebv= 0.00528377833228
 
 
 Data included:
