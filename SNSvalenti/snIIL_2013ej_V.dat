@@ -1,5 +1,5 @@
 # days V
-# ref= Valenti et al 2014 , Young et al 2016 
+# ref= Valenti et al 2014 , Fang et al 2016 
 # jd_expl= 2456497.45
 # if missing data (gap 2.0 days), interpolate 
 # type=  smooth 
