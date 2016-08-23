@@ -2,7 +2,7 @@ This directory includes light curves for a set of transients with a good constra
 
 - The light curve have been smoothed with a gaussian filter
 
-- The files are in asci format with two columns. Other info are reported at the top of the file in the following format:
+- The files are in ascii format with two columns. Other info are reported at the top of the file in the following format:
 
 \# days V
 
